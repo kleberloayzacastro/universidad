@@ -1,0 +1,66 @@
+UNIDAD I: OFIMÁTICA APLICADA A LA ADMINISTRACIÓN I
+1.1.1 Descripción del Entorno
+1.1.2 Creación y Control de Libros y hojas de cálculos
+1.1.3 Elementos del entorno de una hoja de cálculo.
+1.1.4 Diferencia entre valor y apariencia
+1.1.5 Tipos de datos.
+1.1.6 Formatos
+1.2.1 Referencias a Celdas
+1.2.2 Asignación de nombres a una celda o rangos
+1.2.3 Formato Condicional por Valor de Celda, Reglas Superiores  e Inferiores, Escalas de Color y Resaltar Reglas de Celda
+1.3.1 Fórmulas Básicas
+Matemáticas
+1.4.1 Fórmulas Básicas de Texto
+1.5.1 Formulas Lógicas
+
+UNIDAD II: OFIMÁTICA APLICADA A LA ADMINISTRACIÓN II
+2.1.1 Función de Búsqueda y de Referencia
+2.1.2 Funciones Financieras
+2.2.1 Fórmulas Estadísticas
+2.2.2 Formulas de Fecha y Hora
+
+2.3.1 Elementos básicos para creación de gráficos.
+2.3.2 Mejora de la presentación de los gráficos.
+2.3.3 Edición de datos en gráficos.
+2.4.1 Tablas de datos con
+una y dos variables de
+entrada
+3.1.1 Cuando es útil la validación
+3.1.2 Herramienta validación Datos
+3.1.2 Celdas con longitud de Texto.
+3.1.3 Mensaje de Entrada
+3.1.4 Validar números enteros dentro de limites
+3.1.5 Comprobar entradas no validas
+3.1.6 Validar Fechas
+3.1.7 Buscar Celdas con validación
+3.1.8 Borrar validación de datos
+
+3.2.1 Sintaxis función Subtotal
+3.2.2 Ejemplos función Subtotal
+3.2.3 Filas Ocultas función Subtotal
+3.2.4 Taller.	
+3.3.1 Controlar el acceso a libros y Hojas de Calculo
+3.3.2 Proteger o desproteger Hojas de Cálculo.
+3.4.1 Proteger o Desproteger un libro de Excel
+3.4.2 Proteger Celdas en una hoja de Calculo
+3.4.3 Taller
+UNIDAD IV: OFIMÁTICA APLICADA A LA ADMINISTRACIÓN IV
+4.1.1 Tablas dinámicas
+4.1.2 Gráficos dinámicos.
+4.1.3 Taller
+4.2.1 Conceptos Básicos
+4.2.2 Crear una Presentación
+4.2.3 Guardar una Presentación
+4.2.4 Abrir una Presentación
+
+4.3.1 Tipos de Vistas
+4.3.2 Trabajar con dispositivas
+4.3.3 Las reglas y las Guías
+4.3.4 Manejar Objetos 4.4.5 Trabajar con Textos
+4.3.6 Trabajar con Tablas
+ 4.4.1 Trabajar con Gráficos.
+4.4.2 Trabajar con Diagramas
+4.4.3 La barra de Dibujo
+4.4.4 Insertar Sonidos y Películas
+4.4.5 Animaciones y Transiciones
+

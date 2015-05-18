@@ -1,0 +1,80 @@
+1.1.1 Historia
+1.1.2  Herramientas Físicas
+1.1.2  Herramientas Digitales
+1.2.1 Historia
+12.2 Operaciones de herramientas Calculo
+1.2.3 Tipos de Datos
+1.3.1 Microsoft Excel
+1.3.2 Open Ofice Calc
+1.3.3 Google Drive Hojas Calculo.
+1.4.1 Arranque.
+1.4.2 Página inicial de Excel
+1.4.3 Introducción de datos
+1.4.4 Tipos de datos que se pueden utilizar
+ 1.4.5 Introducción de formulas
+1.4.6 Trazado de líneas
+1.4.7 Formato de celdas
+1.4.8 Gráficos estadísticos
+1.5.1 Tablas de amortizaciones.
+1.5.2 Nómina de pagos
+1.5.3 Elaboración de facturas.
+1.5.1 Tablas de amortizaciones.
+1.5.2 Nómina de pagos
+1.5.3 Elaboración de facturas.
+1.6.1  Matemáticas
+1.6.2 Estadísticas
+1.6.3 Financieras
+1.6.4 Fechas
+1.5.1 Ordenamiento
+1.5.2 Filtrado de datos
+1.5.3 Autofiltros
+UNIDAD II: INTRODUCCIÓN DE LAS REDES DE DATOS
+2.1.1 Estructura básica de una red de datos
+2.2.2 Ancho de Banda
+2.2.3 Categorias
+2.2.4 Arquitectura por Capa
+2.2.5 Direccionamiento Ip
+2.2.1 Según su instalación
+2.2.2 Según el área de cobertura
+2.2.3 Según su topología
+UNIDAD III: REDES DE DATOS SISTEMATIZADAS
+3.1.1 Router
+3.1.2 Switch
+3.1.3 Tarjeta de Red
+3.1.4 Modem
+3.1.5 Servidor
+3.1.6 Firewall
+3.1.7 Hub
+3.2.1 Historia
+3.2.2 Componentes del internet
+3.2.3 Correo electrónico
+3.2.4 FTP
+3.2.5 Telnet
+3.2.6 Foros
+3.2.7 Chat
+EXAMEN DEL HEMISEMESTRE
+3.3.1 CMS
+3.3.2 Framework Web
+3.3.4 Responsive
+3.4.1 Chrome
+3.4.2 Firefox
+3.4.3 Chromiun
+3.4.4 Opera
+3.4.5 Internet Explorer
+3.4.6 Safari
+3.4.7 Dolphin
+UNIDAD IV: DISEÑO DE PÁGINAS WEB
+4.1.1 Historia Paginas Web
+4.2.1 Photoshop,  Ilustrator
+4.2.2 Joomla, Wordpress, Drupal
+4.2.3.1 Fundamentos Basicos
+4.2.3.2 Creacion Sitio Web
+4.2.4.1 Lenguajes Web
+4.2.4.2 Joomla
+4.2.4.3 Wordpress
+4.2.5.1 Go Daddy
+4.2.5.1 Hostgator
+4.2.5.1 Ecuahosting
+4.2.6.1 Filezilla
+4.2.6.2 Direccion del Servidor FTP
+4.2.6.3 Direccion del Servidor HTTP

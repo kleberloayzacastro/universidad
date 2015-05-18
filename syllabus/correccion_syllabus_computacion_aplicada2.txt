@@ -1,0 +1,7 @@
+- las unidades no son las mismas
+- el pie de pagina, la pagina sale pegada a la carrera y tiene que ser separado
+- no consta con la firma de del ingeniero
+
+Ing Jose Ollague Valarezo, Mg.Sc
+
+Uno tiene que investigar lo relacionado a las unidades, que corresponde a la ofimatica.
