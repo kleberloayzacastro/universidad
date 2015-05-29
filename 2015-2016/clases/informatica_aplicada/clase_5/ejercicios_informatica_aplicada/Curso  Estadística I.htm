@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html><head>
+   <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+   <meta name="author" content="Jose Robles">
+   <title>Curso: Estadística I</title>
+   <script language="javascript1.2" src="Curso%20%20Estad%C3%ADstica%20I_files/tooltip.js"></script>
+   <style type="text/css"><!--
+	.nav {color:cyan;font: bold 10pt/10pt Arial, sans-serif;}
+	.nav a:link {color:white;text-decoration:none;}
+	.nav a:visited {color:silver;text-decoration:none;}
+	.nav a:hover {color:cyan;text-decoration:none;}
+   --></style>
+<script src="Curso%20%20Estad%C3%ADstica%20I_files/index.htm" type="text/javascript"></script></head>
+
+<body onload="initTip();" topmargin="0" leftmargin="3" link="#0000ff" marginheight="0" marginwidth="3" vlink="#800080">
+<a name="tres_ji_cuadrada"></a>
+<div id="toolTipDiv" style="position:absolute;visibility:hidden;"></div>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr bgcolor="#3333AA">
+<td class="nav" align="center" width="25%"><a href="javascript:window.print();" title="Imprimir esta página">Imprimir</a></td>
+<td class="nav" align="center" width="50%">INSTITUTO TECNOLOGICO DE CHIHUAHUA&nbsp;&nbsp;&nbsp;</td>
+<td class="nav" align="center" width="25%" height="27"><font color="white">&nbsp;<a href="http://www.itch.edu.mx/academic/industrial/estadistica1/cap03.html" onmouseover="showTip(this,event,'Atras');" onmouseout="hideTip();">&lt;&lt;</a>&nbsp;&nbsp;&nbsp;<a href="http://www.itch.edu.mx/academic/industrial/estadistica1/toc.html" onmouseover="showTip(this,event,'Contenido');" onmouseout="hideTip();">Contenido</a>&nbsp;&nbsp;&nbsp;<a href="http://www.itch.edu.mx/academic/industrial/estadistica1/cap03c.html" onmouseover="showTip(this,event,'Adelante');" onmouseout="hideTip();">&gt;&gt;</a></font></td>
+</tr>
+</tbody></table>
+
+<b><p align="CENTER">DISTRIBUCION JI-CUADRADA (X<sup>2</sup>)</p>
+<p></p>
+</b><p>En realidad la distribución ji-cuadrada es la distribución muestral de s<sup>2</sup>.
+ O sea que si se extraen todas las muestras posibles de una población 
+normal y a cada muestra se le calcula su varianza, se obtendrá la 
+distribución muestral de varianzas.</p>
+<p></p>
+<p><a name="tres_estimacion_var">Para estimar la varianza poblacional</a> o la desviación estándar, se necesita conocer el estadístico X<sup>2</sup>. Si se elige una muestra de tamaño <i>n</i> de una población normal con varianza <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29"><font face="Arial">, el estadístico:</font></p><font face="Arial">
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image933.gif" width="84" height="59"></p>
+<p>tiene una distribución muestral que es una <b>distribución ji-cuadrada</b> con gl=n-1 <b>grados de libertad</b> y se denota X<sup>2</sup> (X es la minúscula de la letra griega ji). El estadístico ji-cuadrada esta dado por:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image934.gif" width="122" height="53"></p>
+</font><p><font face="Arial">donde <i>n</i> es el tamaño de la muestra, s<sup>2</sup> la varianza muestral y </font><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29"><font face="Arial">
+ la varianza de la población de donde se extrajo la muestra. El 
+estadístico ji-cuadrada también se puede dar con la siguiente expresión:</font></p><font face="Arial">
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image935.gif" width="139" height="56"></p>
+<p align="CENTER"></p>
+<b><p align="CENTER">Propiedades de las distribuciones ji-cuadrada</p>
+</b><ol><b>
+
+</b><p></p><li>Los valores de X<sup>2</sup> son mayores o iguales que 0.</li><p></p>
+<p></p><li>La forma de una distribución X<sup>2</sup> depende del gl=n-1. En consecuencia, hay un número infinito de distribuciones X<sup>2</sup>.</li><p></p>
+<p></p><li>El área bajo una curva ji-cuadrada y sobre el eje horizontal es 1.</li><p></p>
+<p></p><li>Las distribuciones X<sup>2</sup> no son simétricas. Tienen colas estrechas que se extienden a la derecha; esto es, están sesgadas a la derecha.</li><p></p>
+<p></p><li>Cuando n&gt;2, la media de una distribución X<sup>2</sup> es n-1 y la varianza es 2(n-1).</li><p></p>
+<p></p><li>El valor modal de una distribución X<sup>2</sup> se da en el valor (n-3).</li><p></p></ol>
+
+<p align="CENTER"></p>
+<p>La siguiente figura ilustra tres distribuciones X<sup>2</sup>. Note que el valor modal aparece en el valor (n-3) = (gl-2).</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image936.gif" width="313" height="151"></p>
+<p>La función de densidad de la distribución X<sup>2</sup> esta dada por:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image937.gif" width="192" height="61">		para x&gt;0</p>
+</font><p><font face="Arial">La tabla que se utilizará para estos 
+apuntes es la del libro de probabilidad y estadística de Walpole, la 
+cual da valores críticos <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1192.gif" width="32" height="21"> (gl) para veinte valores especiales de </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"></font><font face="Arial">. Para denotar el valor crítico de una distribución X<sup>2</sup> con gl grados de libertad se usa el símbolo <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1193.gif" width="32" height="21"> (gl); este valor crítico determina a su derecha un área de </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"> </font><font face="Arial">bajo la curva X<sup>2</sup> y sobre el eje horizontal. Por ejemplo para encontrar X<sup>2</sup><sub>0.05</sub>(6) en la tabla se localiza 6 gl en el lado izquierdo y </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1244.gif" width="90" height="19"></font><font face="Arial">a o largo del lado superior de la misma tabla. </font></p><font face="Arial">
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1245.gif" width="272" height="244"></p>
+
+<p>Cálculo de Probabilidad</p>
+<p>El cálculo de probabilidad en una distribución muestral de varianzas 
+nos sirve para saber como se va a comportar la varianza o desviación 
+estándar en una muestra que proviene de una distribución normal.</p>
+<p></p>
+<p>Ejemplos:</p>
+</font><ol><font face="Arial">
+
+<p></p></font><li><font face="Arial">Suponga que los tiempos requeridos 
+por un cierto autobús para alcanzar un de sus destinos en una ciudad 
+grande forman una distribución normal con una desviación estándar </font><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1176.gif" width="21" height="20"><font face="Arial">=1 minuto. Si se elige al azar una muestra de 17 tiempos, encuentre la probabilidad de que la varianza muestral sea mayor que 2.</font></li><p></p><font face="Arial">
+<p></p>
+<i><p>Solución:</p>
+</i><p>Primero se encontrará el valor de ji-cuadrada correspondiente a s<sup>2</sup>=2 como sigue:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image939.gif" width="228" height="50"></p>
+<p>El valor de 32 se busca adentro de la tabla en el renglón de 16 
+grados de libertad y se encuentra que a este valor le corresponde un 
+área a la derecha de 0.01. En consecuencia, el valor de la probabilidad 
+es P(s<sup>2</sup>&gt;2)</p>
+
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image940.gif" width="221" height="109"></p>
+<p></p></font><li><font face="Arial">Encuentre la probabilidad de que una muestra aleatoria de 25 observaciones, de una población normal con varianza </font><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1246.gif" width="53" height="24"></li></ol>
+<font face="Arial">, tenga una varianza muestral:<p></p>
+<ol type="a">
+
+<p></p><li>Mayor que 9.1</li><p></p>
+<p></p><li>Entre 3.462 y 10.745</li><p></p></ol>
+
+<p></p>
+<i><p>Solución.</p>
+</i><ol type="a"><i>
+
+</i><p></p><li>Primero se procederá a calcular el valor de la ji-cuadrada:</li><p></p></ol>
+
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image941.gif" width="241" height="44"></p>
+<p>Al buscar este número en el renglón de 24 grados de libertad nos da un área a la derecha de 0.05. Por lo que la P(s<sup>2 </sup>&gt;9.1) = 0.05</p>
+<p></p>
+<ol>
+
+<p></p><li>Se calcularán dos valores de ji-cuadrada:</li><p></p></ol>
+
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image942.gif" width="273" height="44">	y    <img src="Curso%20%20Estad%C3%ADstica%20I_files/image943.gif" width="198" height="41"></p>
+<p>Aquí se tienen que buscar los dos valores en el renglón de 24 grados 
+de libertad. Al buscar el valor de 13.846 se encuentra un área a la 
+derecha de 0.95. El valor de 42.98 da un área a la derecha de 0.01. Como
+ se está pidiendo la probabilidad entre dos valores se resta el área de 
+0.95 menos 0.01 quedando 0.94.</p>
+</font><p><font face="Arial">Por lo tanto la P(3.462 </font><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1243.gif" width="13" height="16"><font face="Arial"> s<sup>2</sup> </font><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1243.gif" width="13" height="16"><font face="Arial"> 10.745) = 0.94</font></p><font face="Arial">
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image944.gif" width="493" height="251"></p>
+<p>Estimación de la Varianza</p>
+<p>Para poder estimar la varianza de una población normal se utilizará la distribución ji-cuadrada.</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image934.gif" width="101" height="44"></p>
+<p>Al despejar esta fórmula la varianza poblacional nos queda:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image945.gif" width="98" height="44"></p>
+</font><p><font face="Arial">Los valores de X<sup>2</sup> dependerán de nivel de confianza que se quiera al cual le llamamos </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1247.gif" width="52" height="19"></font><font face="Arial">. Si nos ubicamos en la gráfica se tiene:</font></p><font face="Arial">
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image946.gif" width="207" height="155"></p>
+<p>Ejemplos:</p>
+</font><ol><font face="Arial">
+
+<p></p><li>Los siguientes son los pesos, en decagramos, de 10 paquetes 
+de semillas de pasto distribuidas por cierta compañía: 46.4, 46.1, 45.8,
+ 47.0, 46.1, 45.9, 45.8, 46.9, 45.2 y 46. Encuentre un intervalo de 
+confianza de 95% para la varianza de todos los paquetes de semillas de 
+pasto que distribuye esta compañía, suponga una población normal.</li><p></p>
+<p></p>
+<i><p>Solución:</p>
+</i><p>Primero se calcula la desviación estándar de la muestra:</p>
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image947.gif" width="587" height="56"></p>
+<p>al elevar este resultado al cuadrado se obtiene la varianza de la muestra s<sup>2</sup>= 0.286.</p>
+<p></p>
+</font><p><font face="Arial">Para obtener un intervalo de confianza de 95% se elige un </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="31" height="20"></font><font face="Arial">= 0.05. Después con el uso de la tabla con 9 grados de libertad se obtienen los valores de X<sup>2</sup>.</font></p><font face="Arial">
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image948.gif" width="239" height="161"></p>
+<p>Se puede observar en la gráfica anterior que el valor de X<sup>2</sup> corre en forma normal, esto es de izquierda a derecha.</p>
+<p></p>
+<p>Por lo tanto, el intervalo de confianza de 95% para la varianza es:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image949.gif" width="217" height="41"></p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image950.gif" width="216" height="41"></p>
+<p>Graficamente:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image951.gif" width="285" height="217"></p>
+<p>Se observa que la varianza corre en sentido contrario, pero esto es 
+sólo en la gráfica. La interpretación quedaría similar a nuestros temas 
+anteriores referentes a estimación. Con un nivel de confianza del 95% se
+ sabe que la varianza de la población de los pesos de los paquetes de 
+semillas de pasto esta entre 0.135 y 0.935 decagramos al cuadrado.</p>
+<p></p>
+<p>&nbsp;</p>
+<p></p><li>En trabajo de laboratorio se desea llevar a cabo 
+comprobaciones cuidadosas de la variabilidad de los resultados que 
+producen muestras estándar. En un estudio de la cantidad de calcio en el
+ agua potable, el cual se efectúa como parte del control de calidad, se 
+analizó seis veces la misma muestra en el laboratorio en intervalos 
+aleatorios. Los seis resultados en partes por millón fueron 9.54, 9.61, 
+9.32, 9.48, 9.70 y 9.26. Estimar la varianza de los resultados de la 
+población para este estándar, usando un nivel de confianza del 90%.</li><p></p></font></ol><font face="Arial">
+
+<p></p>
+<i><p>Solución:</p>
+</i><p>Al calcular la varianza de la muestra se obtiene un valor de s<sup>2</sup>= 0.0285.</p>
+<p>Se busca en la tabla los valores correspondientes con 5 grados de libertad, obteniéndose dos resultados. Para X<sup>2</sup><sub>(0.95,5)</sub>= 1.145 y para  X<sup>2</sup><sub>(0.0,5)</sub>= 11.07.</p>
+<p>Entonces el intervalo de confianza esta dado por:</p>
+<p></p>
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image952.gif" width="228" height="41">	  y	<img src="Curso%20%20Estad%C3%ADstica%20I_files/image953.gif" width="225" height="41"></p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image954.gif" width="297" height="203"></p>
+<b><p align="CENTER"><a name="tres_ensayo_var_normal">Ensayo de Hipótesis para la Varianza de una Población Normal</a></p><a name="tres_ensayo_var_normal">
+</a><p align="CENTER"><a name="tres_ensayo_var_normal"></a></p>
+</b><p>En la mayoría de los casos se tiene el problema de desconocer la 
+varianza o desviación estándar de la población, en donde las 
+distribuciones son normales. Si se desea probar una hipótesis acerca de 
+la varianza se puede hacer utilizando las medidas estadísticas con las 
+que se construyó el intervalo de confianza <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29">, esto es con la distribución Ji- cuadrada.</p>
+<p></p>
+<p>Ejemplos:</p>
+</font><ol><font face="Arial">
+
+<p></p></font><li><font face="Arial">Una compañía que produce una parte 
+maquinada para un motor, afirma que tiene una varianza de diámetro no 
+mayor a 0.0002 pulgadas. Una muestra aleatoria de 10 de dichas partes 
+dio una varianza de muestra s<sup>2</sup> = 0.0003. Si se supone que las
+ medidas del diámetro se distribuyen en forma normal, ¿hay evidencia 
+para refutar lo que afirma el proveedor? Use </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"></font><font face="Arial">= 0.05.</font></li><p></p><font face="Arial">
+<p></p>
+<i><p>Solución:</p>
+</i><p>Como en todos los ensayos de hipótesis que se han realizado 
+anteriormente el procedimiento es el mismo. Después de que se 
+identifican los datos, se plantea la hipótesis para determinar el tipo 
+de ensayo.</p>
+<p></p>
+<p>Datos:</p>
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29">= 0.0002</p>
+<p>n = 10</p>
+<p>s<sup>2 = </sup>0.0003</p>
+</font><font face="Symbol"></font><p><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="31" height="20"></font><font face="Arial">= 0.05</font></p><font face="Arial">
+<p></p>
+<p>Ensayo de hipótesis:</p>
+<p>H<sub>o</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29">= 0.0002</p>
+<p>H<sub>1</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29">&gt; 0.0002</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image955.gif" width="256" height="162"></p>
+<p>Regla de decisión:</p>
+<p>Si X<sup>2</sup><sub>R</sub><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1243.gif" width="13" height="16"> 16.919 no se rechaza H<sub>o</sub>.</p>
+<p>Si X<sup>2</sup><sub>R</sub>&gt;16.919 se rechaza H<sub>o</sub>.</p>
+<p></p>
+<p>Cálculos:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image956.gif" width="270" height="44"></p>
+<p>Justificación y decisión:</p>
+<p>Como 13.5 no es mayor que 16.919 por lo tanto no se rechaza H<sub>o</sub> y se concluye con un nivel de significancia de 0.05 que no se puede refutar la afirmación del proveedor.</p>
+<p></p>
+<p>Este ejercicio se puede aprovechar para calcular el valor de P. En la
+ tabla se busca el valor de 13.5 en el renglón de 9 grados de libertad. 
+Interpolando entre 0.10 y 0.20 se obtiene un valor de P de 0.1484.</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image957.gif" width="275" height="144"></p>
+<p></p></font><li><font face="Arial">El contenido de azúcar del almíbar de los duraznos enlatados tiene una distribución normal, donde se cree que la varianza es <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29"> = 18 mg<sup>2</sup>.
+ Se toma una muestra de 10 latas dieron una desviación estándar de 4.8 
+mg. ¿Muestran estos datos suficiente evidencia para decir que la 
+varianza ha cambiado?. Use un </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"></font><font face="Arial"> = 0.05 y calcule el valor de P.</font></li><p></p><font face="Arial">
+<i><p>Solución:</p>
+</i><p>Datos:</p>
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29">= 18</p>
+<p>n = 10</p>
+<p>s<sup> = </sup> 4.8</p>
+</font><font face="Symbol"></font><p><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"></font><font face="Arial">= 0.05</font></p><font face="Arial">
+<p></p>
+<p>Ensayo de hipótesis:</p>
+<p></p>
+<p>H<sub>o</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29">= 18</p>
+<p>H<sub>1</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1174.gif" width="28" height="29"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1178.gif" width="21" height="21"> 18</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image958.gif" width="329" height="154"></p>
+<p>Regla de decisión:</p>
+<p>Si 2.7<img src="Curso%20%20Estad%C3%ADstica%20I_files/image1243.gif" width="13" height="16"> X<sup>2</sup><sub>R</sub><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1243.gif" width="13" height="16"> 19.023 no se rechaza H<sub>o</sub>.</p>
+<p>Si X<sup>2</sup><sub>R</sub>&lt;2.7 ó si X<sup>2</sup><sub>R</sub>&gt;19.023 se rechaza H<sub>o</sub>.</p>
+<p></p>
+<p>Cálculos:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image959.gif" width="264" height="44"></p>
+<p>Justificación y decisión:</p>
+<p>Como 11.52 está entre 2.7 y 19.023, no se rechaza H<sub>o, </sub>y se
+ concluye con un nivel de significancia de 0.05 que la varianza del 
+contenido de azúcar del almíbar no ha cambiado, esto es es de 18 mg<sup>2</sup>.</p>
+<p></p>
+</font><p><font face="Arial">Si recordamos al principio de este tema se 
+dijo que la media de la distribución ji-cuadrada es (n-1), por lo tanto 
+la media de este ejercicio es de 9. Como el valor real de X<sup>2</sup><sub>R</sub>
+ = 11.52 este número se encuentra a la derecha de la media, lo cual 
+quiere decir que el valor de P/2 será el área a la derecha del valor de X<sup>2</sup><sub>R</sub>.   Al buscar el valor de 11.52 en la tabla se obtiene un área de 0.2423, por lo tanto P/2 = 0.2423 y  </font><b><font face="Arial" color="#0000ff">P= (2)(0.2423) = 0.4846</font></b></p><b><font face="Arial" color="#0000ff">
+</font></b><font face="Arial"><p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image960.gif" width="325" height="148"></p>
+<p></p><li>Experiencia anterior indica que el tiempo que se requiere 
+para que los estudiantes de último año de preparatoria completen una 
+prueba estandarizada es una variable aletoria normal con una desviación 
+estándar de seis minutos. Se toma una muestra aleatoria de 20 
+estudiantes de último año de preparatoria y se obtiene una desviación 
+estándar de 4.51. ¿Muestran estos datos suficiente evidencia para decir 
+que la desviación estándar disminuyó?. Utilice el valor de P para su 
+decisión.</li><p></p></font></ol><font face="Arial">
+
+<p></p>
+<i><p>Solución:</p>
+</i><p></p>
+<p>Datos:</p>
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1176.gif" width="21" height="20">= 6</p>
+<p>n = 20</p>
+<p>s<sup> = </sup>4.51</p>
+<p></p>
+<p>Ensayo de hipótesis:</p>
+<p>H<sub>o</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1176.gif" width="21" height="20"><sup> </sup>= 6</p>
+<p>H<sub>1</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1176.gif" width="21" height="20"> &lt; 6</p>
+<p></p>
+<p>Cálculos:</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image961.gif" width="280" height="48"></p>
+</font><p><font face="Arial">Para obtener el valor de P, se busca en la 
+tabla el 10.735 con 19 grados de libertad, y el área que se encuentra es
+ la que está a la derecha de este valor. Como la media de esta 
+distribución ji-cuadrada es de 19, por lo tanto el valor de 10.735 queda
+ a la izquierda de la media. El valor de P es de 0.07, y con esto se 
+puede concluir que si hubiéramos utilizado un nivel de significancia de 
+0.10, se rechaza H<sub>o</sub> y se concluye que la desviación estándar disminuyo, pero si se utiliza un valor de </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"></font><font face="Arial"> = 0.05, entonces no se rechaza H<sub>o</sub>
+ y se concluiría que la desviación estándar no disminuyó. La decisión 
+depende del error tipo I que esté dispuesto a tolerar el investigador.</font></p><font face="Arial">
+<b><p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image962.gif" width="381" height="146"></p>
+<p align="CENTER"><a name="tres_error_tipo_2_s2"></a></p><a name="tres_error_tipo_2_s2">
+</a></b><a name="tres_error_tipo_2_s2"></a></font><a name="tres_error_tipo_2_s2"><p align="CENTER"><font face="Arial"><b>Error tipo II ó </b></font><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1180.gif" width="17" height="21"></p>
+<font face="Symbol"></font></a><font face="Symbol"><p><a name="tres_error_tipo_2_s2"></a></p>
+</font><font face="Arial"><p>El error tipo II se calcula de la misma 
+forma en la que se calculó con la distribución z. Se realizarán algunos 
+ejercicios en los cuales se determinará la probabilidad de cometer el 
+error tipo II, utilizando la tabla de la distribución Ji-cuadrada.</p>
+<p></p>
+</font><ol><font face="Arial">
+
+<p></p></font><li><font face="Arial">Se tiene un ensayo de hipótesis unilateral derecho, con n=20 y </font><font face="Symbol"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image1179.gif" width="26" height="16"></font><font face="Arial">= 0.05</font></li><p></p><font face="Arial">
+<p>H<sub>o</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1176.gif" width="21" height="20"> = 0.10</p>
+<p>H<sub>1</sub>; <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1176.gif" width="21" height="20"> &gt; 0.10</p>
+<p>Se quiere calcular el error tipo II ó <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1180.gif" width="17" height="21"> si las desviaciones estándar verdaderas fueran de 0.12 y 0.14.</p>
+<p></p>
+<i><p>Solución:</p>
+</i><p>Para poder calcular el error tipo II, primero se debe encontrar el valor de la varianza muestral límite, esto es s<sup>2</sup><sub>L</sub>, para poder calcular los valores de X<sup>2</sup> y posteriormente calcular el área. Al buscar en la tabla X<sup>2</sup><sub>(0.05,19)</sub>=30.144, este valor se sustituirá en la formula. Al despejar de la fórmula original de X<sup>2</sup> se obtiene:</p>
+<p></p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image963.gif" width="264" height="48">	</p>
+<p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image964.gif" width="536" height="403"></p>
+<p></p><li>Encontrar el error tipo II para el ejercicio 2 de esta 
+sección, en donde el ensayo es bilateral pues se quiere ver si la 
+varianza del contenido de azúcar en el almíbar de los duraznos ha 
+cambiado. Suponga una varianza real de 20 y 26.</li><p></p></font></ol><font face="Arial">
+
+<p></p>
+<p>&nbsp;</p>
+<i><p>Solución:</p>
+</i><p>Como este es un ensayo bilateral se tendrán dos valores de s<sup>2</sup><sub>L</sub>. Los cuales se calcularán utilizando las ji-cuadradas límites que eran de de 2.7 y 19.023.</p>
+<p></p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image965.gif" width="194" height="46"></p>
+<p align="CENTER">y</p>
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image966.gif" width="232" height="46"></p>
+<p align="CENTER"></p>
+</font><p><font face="Arial">Estos dos valores se utilizarán para calcular las nuevas ji-cuadradas para calcular el valor de <img src="Curso%20%20Estad%C3%ADstica%20I_files/image1180.gif" width="17" height="21"></font><font face="Symbol">.</font></p><font face="Symbol">
+</font><font face="Arial"><p><img src="Curso%20%20Estad%C3%ADstica%20I_files/image967.gif" width="565" height="469"></p>
+
+<p align="CENTER"><img src="Curso%20%20Estad%C3%ADstica%20I_files/image968.gif" width="213" height="79"></p>
+
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr bgcolor="#3333AA">
+<td class="nav" align="center" width="25%"><a href="javascript:window.print();" title="Imprimir esta página">Imprimir</a></td>
+<td class="nav" align="center" width="50%">INSTITUTO TECNOLOGICO DE CHIHUAHUA&nbsp;&nbsp;&nbsp;</td>
+<td class="nav" align="center" width="25%" height="27"><font color="white">&nbsp;<a href="http://www.itch.edu.mx/academic/industrial/estadistica1/cap03.html" onmouseover="showTip(this,event,'Atras');" onmouseout="hideTip();">&lt;&lt;</a>&nbsp;&nbsp;&nbsp;<a href="http://www.itch.edu.mx/academic/industrial/estadistica1/toc.html" onmouseover="showTip(this,event,'Contenido');" onmouseout="hideTip();">Contenido</a>&nbsp;&nbsp;&nbsp;<a href="http://www.itch.edu.mx/academic/industrial/estadistica1/cap03c.html" onmouseover="showTip(this,event,'Adelante');" onmouseout="hideTip();">&gt;&gt;</a></font></td>
+</tr>
+</tbody></table>
+
+
+</font></body></html>
