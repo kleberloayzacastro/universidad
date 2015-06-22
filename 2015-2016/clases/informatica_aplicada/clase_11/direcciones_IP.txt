@@ -1,0 +1,28 @@
+Prepara una Red Wan
+
+
+Crear una Red Lan con las distintas oficinas
+
+
+Contabilidad
+
+  PC	    	Direccion Ip
+  
+Jose			192.168.1.10	
+Carlos			192.168.1.3
+Raul			192.168.1.4
+Lucia			192.168.1.5
+
+
+Cobranzas
+
+   PC			Direccion Ip
+
+Pamela			192.168.1.6
+Estefania		192.168.1.7
+Vanessa			192.168.1.8
+Eduardo			192.168.1.9
+
+Servidor		192.168.1.2
+
+Router			192.168.1.1
