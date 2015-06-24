@@ -1,0 +1,1415 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-216625.4437292521" y="-113266.96996667424" width="433250.8874585042" height="226533.93993334848"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>es</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="4_24309637" type="button" x="-4.758814771172108" y="-4.326195246529756" r="0" s="334.58338154400775" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1066.6666666666663</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="5_24309637" type="text" x="-91075.66396866996" y="19270.072522274288" r="0" s="538.7546155675847" class="head">
+      <height>57.6</height>
+      <width>188.50195929514047</width>
+      <p align="center">
+        <text><![CDATA[ Aspectos básicos de Networking]]></text>
+      </p>
+    </object>
+    <object id="8_24309637" type="button" x="-50379.11200169548" y="49349.95744317388" r="-1.2905840971176764e-16" s="37.537858932952176" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="9_24309637" type="button" x="-9409.346503697352" y="-5117.767108227539" r="-1.2905840971176764e-16" s="42.73032056745328" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="13_24309637" type="button" x="-9408.613008377004" y="35834.8293052224" r="-1.2905840971176764e-16" s="38.71314764838263" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="11_24309637" type="button" x="-9409.381541500064" y="70444.3244022954" r="-1.2905840971176764e-16" s="26.260349905214422" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="12_24309637" type="button" x="36781.43215917236" y="-48874.52711624626" r="-1.2905840971176764e-16" s="53.58852767239918" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>766.3692693204514</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="2_46917817" type="image" x="-41315.37671402515" y="49816.30257267604" r="-1.2905840971176764e-16" s="24.65908901523501">
+      <source w="309" h="434">3572193650<url>3572193650.png</url></source>
+      <sourceUrl>http%3A%2F%2F0103.static.prezi.com.s3.amazonaws.com%2Fmedia%2Fc%2F0%2Fa%2Fa4c712504ca10b3a8e3b4e36f0bee6afeb854.png</sourceUrl>
+    <resource><id>3572193650</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/0/a/a4c712504ca10b3a8e3b4e36f0bee6afeb854.png</url></resource></object>
+    <object id="15_24309637" type="text" x="-50494.54152220904" y="42976.992869753245" r="3.569081521984658e-15" s="64.56825061595251" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Redes de datos]]></text>
+      </p>
+    </object>
+    <object id="63_46917817" type="image" x="-1209.45" y="-3433.65" r="-1.2905840971176764e-16" s="34.65677670734637">
+      <source w="375" h="435">3572284418<url>3572284418.png</url></source>
+      <sourceUrl>IMAGEN%207.png</sourceUrl>
+    <resource><id>3572284418</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/7/d/e1ca69cd29af54348a1f1283ae126973f2ab9.png</url></resource></object>
+    <object id="62_46917817" type="image" x="-16611.95" y="-3432.8" r="-1.2905840971176764e-16" s="36.75108272178942">
+      <source w="395" h="419">3572283788<url>3572283788.png</url></source>
+      <sourceUrl>IMAGEN%206.png</sourceUrl>
+    <resource><id>3572283788</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/d/6/a2119482163c838c8b530e94b223946539af8.png</url></resource></object>
+    <object id="22_24309637" type="text" x="-9378.352870057492" y="-12846.886351185462" r="2.6445465390605477e-15" s="73.49971803739028" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Historia de las redes informáticas]]></text>
+      </p>
+    </object>
+    <object id="75_46917817" type="image" x="-9410.394726142877" y="69713.8426863701" r="-1.2905840971176764e-16" s="10.871240800040049">
+      <source w="381" h="249">3572433029<url>3572433029.png</url></source>
+      <sourceUrl>IMAGEN%208.png</sourceUrl>
+    <resource><id>3572433029</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/b/a/24f376359c6243812433e0262c166d1c3bc86.png</url></resource></object>
+    <object id="76_46917817" type="image" x="-9417.216154714304" y="74185.87840065583" r="-1.2905840971176764e-16" s="11.018104665775027">
+      <source w="424" h="280">3572441429<url>3572441429.png</url></source>
+      <sourceUrl>IMAGEN%209.png</sourceUrl>
+    <resource><id>3572441429</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/4/a/7c138daf935941afa9048ea46ee2af0e1cf1c.png</url></resource></object>
+    <object id="30_24309637" type="text" x="-9366.156825225811" y="65980.92194520461" r="1.2814431351225697e-14" s="45.16999376472274" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Dispositivos de Networking]]></text>
+      </p>
+    </object>
+    <object id="33_24309637" type="text" x="-9105.31984040742" y="67809.79655562027" r="6.895162155807551e-15" s="13.015226027662862" class="body">
+      <height>110.390625</height>
+      <width>1492.0824503583387</width>
+      <p align="justify">
+        <text color="0"><![CDATA[El primer grupo está compuesto por los dispositivos de usuario final. Los dispositivos de usuario final incluyen los computadores, impresoras, escáneres, y demás dispositivos que brindan servicios directamente al usuario.]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[ ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="34_24309637" type="text" x="36693.62406046195" y="-57939.56117559394" r="-1.1223478204801031e-14" s="92.1767405826644" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[REDES]]></text>
+      </p>
+    </object>
+    <object id="2" type="button" x="37311.0444015116" y="36999.249047203215" r="-1.2905840971176764e-16" s="51.47028581422026" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>394.64596470202434</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="3" type="text" x="37174.750749214414" y="37222.62921337699" r="1.7466312828881095e-14" s="88.38623150868311" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Ancho de banda]]></text>
+      </p>
+    </object>
+    <object id="6" type="button" x="91557.39306805129" y="-48887.00929498051" r="-1.2905840971176764e-16" s="51.47028581422026" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="7" type="text" x="91641.39202035202" y="-57596.22966842531" r="1.7437106265846226e-14" s="88.53318777885659" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[El Escritorio]]></text>
+      </p>
+    </object>
+    <object id="36_46917817" type="image" x="81702.55" y="-48193.65" r="-1.2905840971176764e-16" s="40.31617608168967">
+      <source w="400" h="271">3576502133<url>3576502133.png</url></source>
+      <sourceUrl>IMAGEN%2023.png</sourceUrl>
+    <resource><id>3576502133</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/0/8/84fa28e6802fd11975a9fe6d4010523a77d62.png</url></resource></object>
+    <object id="14" type="button" x="36818.65" y="-5124.75" r="-1.2905840971176764e-16" s="51.47028581422028" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="18" type="image" x="-24464.549270781154" y="-71234.08650143557" r="-7.420299443086211e-17" s="155.1768464895744">
+      <source w="188" h="251">760308461<url>760308461.png</url></source>
+      <sourceUrl>FCE1.png</sourceUrl>
+    <resource><id>760308461</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/2/6/19b5100b215f4ce3c2823fe33fc07973a5d88.png</url></resource></object>
+    <object id="19" type="image" x="-163355.07835029773" y="-78503.69551751313" r="-1.2905840971176767e-16" s="114.86784377988434">
+      <source w="172" h="173">760306761<url>760306761.png</url></source>
+      <sourceUrl>UTM.png</sourceUrl>
+    <resource><id>760306761</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/7/9/a51dc09ae2223e581e08a27700cfb09fd49e4.png</url></resource></object>
+    <object id="17" type="text" x="-92492.52929414235" y="-29683.882045570772" r="0" s="324.5500027587611" class="body">
+      <height>275.9765625</height>
+      <width>540.2189007827719</width>
+      <p align="center">
+        <text color="11793407"><![CDATA[Universidad Técnica de Machala]]></text>
+      </p>
+      <p align="center">
+        <text color="11793407"><![CDATA[     Unidad Academica Ciencias Empresariales]]></text>
+      </p>
+      <p align="center">
+        <text color="11793407"><![CDATA[Economía]]></text>
+      </p>
+      <p align="center">
+        <text weight="bold"><![CDATA[Informatica Aplicada]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Grupo # 2]]></text>
+      </p>
+      <p>
+        <text><![CDATA[        Integrantes:   Alvaro Quito. ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[                              Estephanie Rodriguez]]></text>
+      </p>
+      <p>
+        <text><![CDATA[                              Dannessa Serrano]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="20" type="button" x="36760.97781095616" y="70441.80744020053" r="-1.2905840971176764e-16" s="51.470285814220254" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="21" type="text" x="36810.116068809686" y="61732.36470007563" r="3.569081521984651e-15" s="88.53318777885654" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Importancia del ancho de banda]]></text>
+      </p>
+    </object>
+    <object id="31" type="button" x="91565.49338942349" y="-5121.74095709494" r="-1.2905840971176764e-16" s="51.47028581422026" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="32" type="text" x="91614.631647277" y="-13831.183697219829" r="1.37389663341498e-14" s="88.53318777885659" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Medición]]></text>
+      </p>
+    </object>
+    <object id="34" type="button" x="-95495.1970866566" y="49349.34179664468" r="-1.2905840971176764e-16" s="36.76448986730019" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="35" type="text" x="-95824.01814955474" y="48765.20694356098" r="5.4181514878328575e-15" s="62.33710689110147" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text weight="bold"><![CDATA[Terminología de Networking]]></text>
+      </p>
+    </object>
+    <object id="83_46917817" type="image" x="-4707.950000000001" y="33160.250000000015" r="-1.2905840971176764e-16" s="14.244383209642033">
+      <source w="415" h="272">3572495030<url>3572495030.png</url></source>
+      <sourceUrl>IMAGEN%2013.png</sourceUrl>
+    <resource><id>3572495030</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/9/8/cf791dd26d5217bc2ff5962b679a42bc31fd6.png</url></resource></object>
+    <object id="84_46917817" type="image" x="2081.4999999999964" y="33161" r="-1.2905840971176764e-16" s="13.412873216174894">
+      <source w="439" h="303">3572496968<url>3572496968.png</url></source>
+      <sourceUrl>IMAGEN%2014.png</sourceUrl>
+    <resource><id>3572496968</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/8/d/484824cf74b342e1c1296e94812ae1d9b09f0.png</url></resource></object>
+    <object id="85_46917817" type="image" x="1022.8999999999978" y="40964.14999999999" r="-1.2905840971176771e-16" s="12.830219656611396">
+      <source w="456" h="313">3572541908<url>3572541908.png</url></source>
+      <sourceUrl>IMAGEN%2015.png</sourceUrl>
+    <resource><id>3572541908</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/6/b80d7753e9387e5444a74cd9ccb882d8a535f.png</url></resource></object>
+    <object id="0_46917817" type="text" x="-9188.95" y="28635.85000000001" r="6.3426864707569684e-15" s="47.56417521913104" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Topología de red]]></text>
+      </p>
+    </object>
+    <object id="3_46917817" type="text" x="-10254.499999999998" y="37164.85" r="8.191756436605177e-15" s="47.56417521913104" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Protocolos de red]]></text>
+      </p>
+    </object>
+    <object id="4_46917817" type="button" x="91565.591797398" y="36543.80386692827" r="-1.2905840971176764e-16" s="51.47028581422026" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="5_46917817" type="text" x="91614.7300552515" y="27834.361126803375" r="2.6445465390605457e-15" s="88.53318777885659" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[ Limitaciones]]></text>
+      </p>
+    </object>
+    <object id="10_46917817" type="button" x="50220.28874043339" y="-42490.03637527456" r="-1.6030638007171343e-14" s="13.398137706742052" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="11_46917817" type="text" x="50233.0798321279" y="-44757.17578076311" r="-1.5844973248330932e-14" s="23.045915186083043" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Redes de área metropolitana (MAN)]]></text>
+      </p>
+    </object>
+    <object id="12_46917817" type="text" x="50257.10475796425" y="-43694.672986281716" r="-2.1200138196584956e-14" s="11.394915701595664" class="body">
+      <height>82.79296875</height>
+      <width>834.335487236521</width>
+      <p>
+        <text color="0"><![CDATA[La MAN es una red que abarca un área metropolitana, como, por ejemplo, una ciudad o una zona suburbana. Una MAN generalmente consta de una o más LAN dentro de un área geográfica común. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="14_46917817" type="button" x="50219.74019758003" y="-52412.859098100525" r="-1.6030638007171343e-14" s="13.398137706742052" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="15_46917817" type="text" x="50221.531289274506" y="-54749.4985035891" r="-1.1222645354619423e-14" s="23.045915186083043" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Redes de área amplia (WAN)]]></text>
+      </p>
+    </object>
+    <object id="90_46917817" type="image" x="50641.100000000006" y="-51185.3" r="-1.6030638007171343e-14" s="11.22631170687864">
+      <source w="422" h="282">3572642429<url>3572642429.png</url></source>
+      <sourceUrl>IMAGEN%2017.png</sourceUrl>
+    <resource><id>3572642429</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/f/f/eb39347c508440b07b112c9ecb31263a63736.png</url></resource></object>
+    <object id="16_46917817" type="text" x="50218.75658663898" y="-53438.45293700289" r="-1.4176444934293893e-14" s="8.39865713778537" class="body">
+      <height>193.18359375</height>
+      <width>1167.9944403569784</width>
+      <p align="justify">
+        <text color="0"><![CDATA[Las WAN interconectan las LAN, que a su vez proporcionan acceso a los computadores o a los servidores de archivos ubicados en otros lugares. Las WAN están diseñadas para realizar lo siguiente: ]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Operar entre áreas geográficas extensas y distantes]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Posibilitar capacidades de comunicación en tiempo real entre usuarios]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Brindar recursos remotos de tiempo completo, conectados a los servicios locales]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Brindar servicios de correo electrónico, World Wide Web, transferencia de archivos y comercio]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[electrónico ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="21_46917817" type="button" x="22993.623148706338" y="-52548.998034181575" r="-1.6030638007171343e-14" s="13.398137706742052" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="22_46917817" type="text" x="23006.414240400823" y="-54816.13743967018" r="-8.449248618392498e-15" s="23.04591518608305" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Redes de área de almacenamiento (SAN)]]></text>
+      </p>
+    </object>
+    <object id="92_46917817" type="image" x="23345.25" y="-51500.899999999994" r="-1.6030638007171343e-14" s="10.506560270832791">
+      <source w="230" h="310">3572683721<url>3572683721.png</url></source>
+      <sourceUrl>IMAGEN%2019.png</sourceUrl>
+    <resource><id>3572683721</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/c/c/406a5ad3d80d70a5631879a339e66e74d2826.png</url></resource></object>
+    <object id="23_46917817" type="text" x="22998.756982850144" y="-53583.83713056138" r="-1.4176444934293893e-14" s="12.534407271755232" class="body">
+      <height>110.390625</height>
+      <width>763.1060928550174</width>
+      <p>
+        <text color="0"><![CDATA[Una SAN es una red dedicada, de alto rendimiento, que se utiliza para trasladar datos entre servidores y recursos de almacenamiento. Al tratarse de una red separada y dedicada, evita todo conflicto de tráfico]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[entre clientes y servidores. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="24_46917817" type="button" x="36779.11882834024" y="-48183.35815037335" r="-1.6030638007171343e-14" s="13.398137706742052" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="25_46917817" type="text" x="36791.90992003475" y="-50450.497555861904" r="-6.600317460907896e-15" s="23.045915186083043" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Red privada virtual (VPN)]]></text>
+      </p>
+    </object>
+    <object id="30_46917817" type="button" x="23135.30944621088" y="-43690.524493402445" r="-1.2850322087679424e-14" s="13.398137706742052" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="31_46917817" type="text" x="23148.100537905368" y="-45957.663898891005" r="-2.90245514593868e-15" s="23.045915186083043" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[ Redes de área local (LAN)]]></text>
+      </p>
+    </object>
+    <object id="34_46917817" type="button" x="40021.63419521974" y="-46506.10440152634" r="-8.855845292797578e-15" s="4.882703245897248" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="35_46917817" type="text" x="40026.29567178479" y="-47332.32138603384" r="-2.6657919577806474e-15" s="8.398657137785367" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Ventajas de las VPN]]></text>
+      </p>
+    </object>
+    <object id="38_46917817" type="text" x="36500.37264772521" y="-14306.151821494872" r="7.267221453681065e-15" s="88.53318777885667" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Redes internas y externas]]></text>
+      </p>
+    </object>
+    <object id="40_46917817" type="button" x="91281.7933892259" y="69274.06662404402" r="-1.2905840971176764e-16" s="51.47028581422026" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="41_46917817" type="text" x="90942.00669441672" y="65177.21325576493" r="2.644546539060544e-15" s="88.53318777885659" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[ GRACIAS ]]></text>
+      </p>
+    </object>
+    <object id="43_46917817" type="button" x="-0.8652390492984753" y="2.595717147913132" r="0" s="355.0754576955658" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1146.6458658346337</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="44_46917817" type="button" x="5.901977483325692e-12" y="-3.934651655550462e-12" r="0" s="378.1868780189457" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1146.6458658346337</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="48_46917817" type="image" x="92280.80641773478" y="71754.07436459158" r="-1.2905840971176764e-16" s="24.82583452439225">
+      <source w="480" h="360">3571966190<mask x="11" y="15" w="461" h="325"/>
+      <url>3571966190.jpg</url></source>
+      <sourceUrl>APLAUSOS.jpg</sourceUrl>
+    <resource><id>3571966190</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/e/3f01674d216e7e4d09d521f3db51e7ef48fb7.jpg</url></resource></object>
+    <object id="1_46917817" type="text" x="-54653.33350909061" y="51421.03902464301" r="-1.2905840971176764e-16" s="24.85598444906563" class="body">
+      <height>551.953125</height>
+      <width>693.6199788628832</width>
+      <p align="justify">
+        <text color="0"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[Las empresas necesitaban una solución que resolviera con éxito los]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[tres problemas siguientes:]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo evitar la duplicación de equipos informáticos y de otros recursos]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo comunicarse con eficiencia]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo configurar y administrar una red ]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[ ]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[Las empresas se dieron cuenta de que la tecnología de networking (aplica a las redes de cómputo para vincular dos o más dispositivos informáticos) podía aumentar la productividad y ahorrar gastos.  ]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[A medida  que las tecnologías de red que habían emergido Cada empresa dedicada a crear hardware y software para redes utilizaba sus propios estándares corporativos.]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="7_46917817" type="button" x="-41316.126321701944" y="56203.334782775666" r="-1.2905840971176764e-16" s="3.487645175640893" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="8_46917817" type="text" x="-42059.73713707883" y="55643.37784821262" r="6.895162155807551e-15" s="2.681735584555262" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Creacion de red LAN]]></text>
+      </p>
+    </object>
+    <object id="9_46917817" type="text" x="-42085.82792655223" y="55873.29145565895" r="6.895162155807551e-15" s="2.69653641039616" class="body">
+      <height>82.79296875</height>
+      <width>363.90317381928</width>
+      <p>
+        <text color="0"><![CDATA[En un sistema LAN, cada departamento de la empresa era una especie de isla electrónica. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="13_46917817" type="text" x="-40737.24179329992" y="55643.94005397022" r="1.2814431351225697e-14" s="2.681735584555262" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Creacion de red MANy WAN]]></text>
+      </p>
+    </object>
+    <object id="17_46917817" type="image" x="-42014.57327455217" y="56452.20453147035" r="-1.2905840971176764e-16" s="2.9657569142228506">
+      <source w="404" h="253">3572220389<url>3572220389.png</url></source>
+      <sourceUrl>IMAGEN%203.png</sourceUrl>
+    <resource><id>3572220389</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/d/469f92176cd4e0989cb797183af23d696ec98.png</url></resource></object>
+    <object id="18_46917817" type="text" x="-40706.13307471308" y="55937.59886135318" r="-1.2905840971176764e-16" s="2.4379414405047832" class="body">
+      <height>137.98828125</height>
+      <width>508.17709368508</width>
+      <p align="justify">
+        <text color="0"><![CDATA[las MAN Y WAN podían conectar redes de usuarios dentro de áreas geográficas extensas, permitieron que las empresas se]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[comunicaran entre sí a través de grandes distancias. ]]></text>
+      </p>
+    </object>
+    <object id="19_46917817" type="image" x="-40727.684295420826" y="56461.012421672654" r="-1.290584097117675e-16" s="2.7343925551061425">
+      <source w="451" h="256">3572234537<url>3572234537.png</url></source>
+      <sourceUrl>IMAGEN%204.png</sourceUrl>
+    <resource><id>3572234537</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/3/f4b424d87a09fa8c926a2cc678d0f354b11ba.png</url></resource></object>
+    <object id="20_46917817" type="button" x="-41316.126321701944" y="56203.334782775666" r="-1.2905840971176764e-16" s="3.4876451756408926" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="27_46917817" type="text" x="-42059.73713707883" y="55643.37784821261" r="6.895162155807551e-15" s="2.6817355845552613" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Creacion de red LAN]]></text>
+      </p>
+    </object>
+    <object id="28_46917817" type="text" x="-42085.82792655222" y="55873.29145565894" r="6.895162155807551e-15" s="2.6965364103961593" class="body">
+      <height>82.79296875</height>
+      <width>363.90317381928</width>
+      <p>
+        <text color="0"><![CDATA[En un sistema LAN, cada departamento de la empresa era una especie de isla electrónica. ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="29_46917817" type="text" x="-40737.24179329993" y="55643.94005397019" r="1.2814431351225697e-14" s="2.6817355845552613" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Creacion de red MANy WAN]]></text>
+      </p>
+    </object>
+    <object id="33_46917817" type="image" x="-42014.573274552175" y="56452.20453147035" r="-1.2905840971176764e-16" s="2.9657569142228497">
+      <source w="404" h="253">3572220389<url>3572220389.png</url></source>
+      <sourceUrl>IMAGEN%203.png</sourceUrl>
+    <resource><id>3572220389</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/5/d/469f92176cd4e0989cb797183af23d696ec98.png</url></resource></object>
+    <object id="39_46917817" type="text" x="-40706.13307471308" y="55937.59886135318" r="-1.2905840971176764e-16" s="2.4379414405047832" class="body">
+      <height>137.98828125</height>
+      <width>508.17709368508</width>
+      <p align="justify">
+        <text color="0"><![CDATA[las MAN Y WAN podían conectar redes de usuarios dentro de áreas geográficas extensas, permitieron que las empresas se]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[comunicaran entre sí a través de grandes distancias. ]]></text>
+      </p>
+    </object>
+    <object id="42_46917817" type="image" x="-40727.684295420826" y="56461.01242167265" r="-1.2905840971176764e-16" s="2.734392555106142">
+      <source w="451" h="256">3572234537<url>3572234537.png</url></source>
+      <sourceUrl>IMAGEN%204.png</sourceUrl>
+    <resource><id>3572234537</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/3/f4b424d87a09fa8c926a2cc678d0f354b11ba.png</url></resource></object>
+    <object id="52_46917817" type="button" x="-40233.55" y="56888.9" r="-1.2905840971176764e-16" s="0.2363240980451405" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="59_46917817" type="image" x="-40229.4" y="56894.3" r="-1.2905840971176764e-16" s="0.2875240348829093">
+      <source w="376" h="286">3572248469<url>3572248469.png</url></source>
+      <sourceUrl>IMAGEN%205.png</sourceUrl>
+    <resource><id>3572248469</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/a/c/f0991a3eae2e392fe0a193890f2138ef9a2d4.png</url></resource></object>
+    <object id="53_46917817" type="text" x="-40231.45" y="56847.05" r="6.895162155807554e-15" s="0.25440152189185" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Distancia para la utilizacion de las Redes]]></text>
+      </p>
+    </object>
+    <object id="61_46917817" type="button" x="-40225.82195580911" y="56888.288797443645" r="-1.2905840971176764e-16" s="0.5827028425056788" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1231.1557788944722</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="64_46917817" type="button" x="-967.5375832857316" y="69714.30697208439" r="-1.2905840971176764e-16" s="3.255135497264833" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="66_46917817" type="text" x="-938.6121177880524" y="69137.86376681081" r="6.895162155807553e-15" s="3.5041344971522075" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[  Repetidor ]]></text>
+      </p>
+    </object>
+    <object id="68_46917817" type="button" x="-903.216154714304" y="73234.8069720844" r="-1.2905840971176764e-16" s="3.255135497264833" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="70_46917817" type="text" x="-874.2906892166247" y="72658.36376681084" r="6.895162155807553e-15" s="3.5041344971522066" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[Puentes]]></text>
+      </p>
+    </object>
+    <object id="71_46917817" type="button" x="-903.216154714304" y="75318.69982922726" r="-1.2905840971176764e-16" s="3.255135497264833" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>762.785386142081</w>
+        <h>429.0667797049206</h>
+      </size>
+      <meta>
+        <parentTemplate>streaming-new</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="73_46917817" type="text" x="-880.2393271687165" y="74806.65423142846" r="6.895162155807553e-15" s="3.854547946867428" class="head head-background">
+      <height>28.8</height>
+      <width>410.9414653322203</width>
+      <p align="center">
+        <text><![CDATA[ Switches]]></text>
+      </p>
+    </object>
+    <object id="74_46917817" type="text" x="-9359.4722987774" y="72068.30399575981" r="-1.2905840971176764e-16" s="13.015226027662862" class="body">
+      <height>55.1953125</height>
+      <width>1461.587490157336</width>
+      <p>
+        <text color="0"><![CDATA[El segundo grupo está formado por los dispositivos de red. Los dispositivos de red son todos aquellos que conectan entre sí a los dispositivos de usuario final, posibilitando su intercomunicación.]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+    </object>
+    <object id="78_46917817" type="image" x="-975.45" y="69805.95" r="-1.2905840971176764e-16" s="2.799968309585062">
+      <source w="405" h="231">3572451047<url>3572451047.png</url></source>
+      <sourceUrl>IMAGEN%2010.png</sourceUrl>
+    <resource><id>3572451047</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/6/0/b6beaf9e16cc807532820e88306d28444b0cd.png</url></resource></object>
+    <object id="77_46917817" type="text" x="-969.9721437972164" y="69304.66067989083" r="-1.2905840971176764e-16" s="2.6327081120602607" class="body">
+      <height>55.1953125</height>
+      <width>-839.21484375</width>
+      <p>
+        <text><![CDATA[no toma decisiones inteligentes acerca del envío de paquetes como lo hace un]]></text>
+      </p>
+      <p>
+        <text><![CDATA[router o puente. ]]></text>
+      </p>
+    </object>
+    <object id="79_46917817" type="text" x="-975.4511053735536" y="72828.90722695735" r="-1.2905840971176764e-16" s="3.185576815592915" class="body">
+      <height>27.59765625</height>
+      <width>591.725152535634</width>
+      <p>
+        <text color="0"><![CDATA[Proporcionan las conexiones entre LAN. ]]></text>
+      </p>
+    </object>
+    <object id="80_46917817" type="image" x="-905.5" y="73319.45" r="-1.2905840971176764e-16" s="3.3552399717098105">
+      <source w="383" h="186">3572457656<url>3572457656.png</url></source>
+      <sourceUrl>IMAGEN%2011.png</sourceUrl>
+    <resource><id>3572457656</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/1/c/4c6d9bfae452bff76c7d180f195b4f97d0745.png</url></resource></object>
+    <object id="82_46917817" type="image" x="-896.75" y="75573.75" r="-1.2905840971176764e-16" s="3.103178113110164">
+      <source w="275" h="255">3572465402<url>3572465402.png</url></source>
+      <sourceUrl>IMAGEN%2012.png</sourceUrl>
+    <resource><id>3572465402</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/9/d/0606f98a4643cef6f8fb45c981718ee4b0b92.png</url></resource></object>
+    <object id="81_46917817" type="text" x="-891.0869276464598" y="75083.11138277744" r="-1.2905840971176764e-16" s="2.8959789232662865" class="body">
+      <height>110.390625</height>
+      <width>809.2503839826887</width>
+      <p align="justify">
+        <text color="0"><![CDATA[Agregan inteligencia a la administración de transferencia de datos. No sólo son capaces de determinar si los datos deben permanecer o no en una LAN, sino que pueden transferir los datos únicamente a la conexión que necesita esos datos. ]]></text>
+      </p>
+    </object>
+    <object id="86_46917817" type="text" x="-13300.24556592622" y="41213.15000000001" r="-1.2905840971176767e-16" s="23.20497976286311" class="body">
+      <height>193.18359375</height>
+      <width>887.7267540548042</width>
+      <p align="justify">
+        <text color="0"><![CDATA[Los protocolos controlan todos los aspectos de la comunicación de datos, que incluye lo siguiente:]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo se construye la red física]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo los computadores se conectan a la red]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo se formatean los datos para su transmisión]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo se envían los datos]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[• Cómo se manejan los errores ]]></text>
+      </p>
+    </object>
+    <object id="87_46917817" type="text" x="-16080.27217860328" y="33154.13878941582" r="-1.2905840971176771e-16" s="26.848736915709384" class="body">
+      <height>193.18359375</height>
+      <width>581.404353972694</width>
+      <p align="justify">
+        <text color="0"><![CDATA[Una parte de la definición topológica es la topología]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[física, que es la disposición real de los cables o medios. La otra parte es la topología lógica]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[La topología lógica de una red es la forma en que los hosts se comunican a través del medio. Los dos tipos más comunes de topologías lógicas son broadcast y transmisión de tokens. ]]></text>
+      </p>
+    </object>
+    <object id="89_46917817" type="image" x="25169.75" y="-43020.9" r="-1.2850322087679424e-14" s="14.404170624138349">
+      <source w="399" h="263">3572635619<url>3572635619.png</url></source>
+      <sourceUrl>IMAGEN%2016.png</sourceUrl>
+    <resource><id>3572635619</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/5/4cfe3975effa4c8f3438cfdce1ec8beb4fefc.png</url></resource></object>
+    <object id="88_46917817" type="text" x="22954.205853752675" y="-44347.70034346073" r="-1.2850322087679424e-14" s="12.534407271755232" class="body">
+      <height>165.5859375</height>
+      <width>738.5776827275348</width>
+      <p>
+        <text color="0"><![CDATA[Las LAN constan de los siguientes componentes:]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Computadores]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Tarjetas de interfaz de red]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Dispositivos periféricos]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Medios de networking]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[• Dispositivos de networking ]]></text>
+      </p>
+    </object>
+    <object id="91_46917817" type="image" x="50354.49999999999" y="-41500.399999999994" r="-1.6030638007171343e-14" s="10.083695615969551">
+      <source w="455" h="323">3572657180<url>3572657180.png</url></source>
+      <sourceUrl>IMAGEN%2018.png</sourceUrl>
+    <resource><id>3572657180</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/4/e/acb6668e57dfac541a1aa351fad54ecdc9902.png</url></resource></object>
+    <object id="93_46917817" type="text" x="36784.952728622" y="-49362.55160154787" r="-1.6030638007171343e-14" s="10.751089517995306" class="body">
+      <height>110.390625</height>
+      <width>899.9712608474288</width>
+      <p>
+        <text color="0"><![CDATA[Una VPN es una red privada que se construye dentro de una infraestructura de red pública, como la Internet global. Con una VPN, un empleado a distancia puede acceder a la red de la sede de la empresa a través de Internet, formando un túnel seguro entre el PC del empleado y un router VPN en la sede. ]]></text>
+      </p>
+    </object>
+    <object id="94_46917817" type="image" x="34334.15" y="-47091.2" r="-1.6030638007171343e-14" s="10.820709913482276">
+      <source w="430" h="301">3572690147<url>3572690147.png</url></source>
+      <sourceUrl>IMAGEN%2020.png</sourceUrl>
+    <resource><id>3572690147</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/4/4/419ec42ce191c1af61332a410e5cd0d6166b8.png</url></resource></object>
+    <object id="96_46917817" type="text" x="36364.02278444738" y="-9283.439727676065" r="-1.2905840971176764e-16" s="29.096555459928613" class="body">
+      <height>220.78125</height>
+      <width>1265.0065005759732</width>
+      <p>
+        <text color="0"><![CDATA[Una de las configuraciones comunes de una LAN es una red interna, a veces denominada "intranet". Los servidores de Web de red interna son distintos de los servidores de Web públicos, ya que es necesario que un usuario público cuente con los correspondientes permisos y contraseñas para acceder a la red interna de]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[una organización. ]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[Las redes externas hacen referencia a aplicaciones y servicios basados en la red interna, y utilizan un acceso extendido y seguro a usuarios o empresas externas Este acceso generalmente se logra mediante contraseñas, identificaciones de usuarios, y seguridad a nivel de las aplicaciones.]]></text>
+      </p>
+    </object>
+    <object id="97_46917817" type="image" x="37566" y="-93.44999999999982" r="-1.2905840971176764e-16" s="43.74902307794998">
+      <source w="416" h="253">3572763119<url>3572763119.png</url></source>
+      <sourceUrl>IMAGEN%2021.png</sourceUrl>
+    <resource><id>3572763119</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/f/5/61b99d8e23ec1886bb31b040f8efdfb93de3f.png</url></resource></object>
+    <object id="98_46917817" type="text" x="37247.32389470302" y="66587.51994560024" r="-1.2905840971176764e-16" s="45.43152404156381" class="body">
+      <height>110.390625</height>
+      <width>804.8877727970004</width>
+      <p align="justify">
+        <text color="0"><![CDATA[El ancho de banda se define como la cantidad de información que puede fluir a través de una conexión de red en un período dado Es esencial comprender el concepto de ancho de banda al estudiar networking, por]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[las siguientes cuatro razones:]]></text>
+      </p>
+    </object>
+    <object id="99_46917817" type="image" x="36851.95" y="74446.85" r="-1.2905840971176764e-16" s="72.65010887339567">
+      <source w="491" h="127">3572772992<url>3572772992.png</url></source>
+      <sourceUrl>IMAGEN%2022.png</sourceUrl>
+    <resource><id>3572772992</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/6/07be1cb423dbd26fdcfdde30bf09507edac46.png</url></resource></object>
+    <object id="100_46917817" type="text" x="91758.5" y="-10407.4" r="-1.2905840971176764e-16" s="32.45108860111703" class="body">
+      <height>82.79296875</height>
+      <width>1172.7885526368668</width>
+      <p align="justify">
+        <text color="0"><![CDATA[En los sistemas digitales, la unidad básica del ancho de banda es bits por segundo (bps). El ancho de banda es la medición de la cantidad de información, o bits, que puede fluir desde un lugar hacia otro en un período de tiempo determinado, o segundos. ]]></text>
+      </p>
+    </object>
+    <object id="101_46917817" type="image" x="91522.75" y="-2477.85" r="-1.2905840971176764e-16" s="73.85342330608132">
+      <source w="483" h="156">3572793479<url>3572793479.png</url></source>
+      <sourceUrl>IMAGEN%2025.png</sourceUrl>
+    <resource><id>3572793479</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/c/c/0aa8b085932d5ec24bf58155b0d1ac079483b.png</url></resource></object>
+    <object id="6_46917817" type="text" x="40112.05" y="-46947.4" r="-8.855845292797578e-15" s="3.1199594831029915" class="body">
+      <height>82.79296875</height>
+      <width>1169.303843541003</width>
+      <p align="justify">
+        <text color="0"><![CDATA[conservan las mismas políticas de seguridad y administración que una red privada. Son la forma más]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[económica de establecer una conexión punto-a-punto entre usuarios remotos y la red de un cliente de la]]></text>
+      </p>
+      <p align="justify">
+        <text color="0"><![CDATA[empresa.]]></text>
+      </p>
+    </object>
+    <object id="26_46917817" type="text" x="38746.54797415515" y="-46720.7482153357" r="-8.855845292797578e-15" s="3.1199594831029915" class="body">
+      <height>27.59765625</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="32_46917817" type="text" x="39045.55760035522" y="-46442.07151843463" r="-8.855845292797578e-15" s="3.7751509745546206" class="body">
+      <height>137.98828125</height>
+      <width>362.51986133516186</width>
+      <p>
+        <text color="0"><![CDATA[los tres principales tipos de VPN:]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[VPN de acceso:]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[Redes internas VPN]]></text>
+      </p>
+      <p>
+        <text color="0"><![CDATA[Redes externas VPN]]></text>
+      </p>
+    </object>
+    <object id="37_46917817" type="image" x="100491.1" y="-48193.65" r="-1.2905840971176764e-16" s="39.72037052383219">
+      <source w="406" h="276">3576502970<url>3576502970.png</url></source>
+      <sourceUrl>IMAGEN%2024.png</sourceUrl>
+    <resource><id>3576502970</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/0/1/8d6864b410ea29d78523ca32e42dfb0a54271.png</url></resource></object>
+    <object id="46_46917817" type="image" x="81259.85" y="38193.25" r="-1.2905840971176764e-16" s="30.741423781171925">
+      <source w="535" h="401">3576510842<url>3576510842.png</url></source>
+      <sourceUrl>IMAGEN%2027.png</sourceUrl>
+    <resource><id>3576510842</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/6/5/ca94dbf66d83a147ce38d1acb818742fabee2.png</url></resource></object>
+    <object id="47_46917817" type="image" x="100462.15" y="38197.7" r="-1.2905840971176764e-16" s="30.3158745926768">
+      <source w="594" h="512">3576515594<url>3576515594.png</url></source>
+      <sourceUrl>IMAGEN%2028.png</sourceUrl>
+    <resource><id>3576515594</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/d/e/1f7c765a42f131c3b9714338eaadebd99c0bf.png</url></resource></object>
+  </zui-table>
+  <background>
+    <layer depth="28.190029472254636" fadescale="0.07804177722358528">
+      <object id="background946044541" type="image" x="19885.369422049323" y="11968.551994392796" r="0" s="125.44806552368097">
+        <source w="3500" h="579">946044541<url>946044541.png</url></source>
+        <sourceUrl>waves4c.png</sourceUrl>
+      <resource><id>946044541</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/d/b/28fca02ff3e925af92412b8c8a2b17338ac3d.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+    <s>
+      <eagle o="35"/>
+    </s>
+    <s>
+      <eagle o="8_24309637"/>
+    </s>
+    <s>
+      <eagle o="7_46917817"/>
+    </s>
+    <s>
+      <eagle o="52_46917817"/>
+    </s>
+    <s>
+      <eagle o="9_24309637"/>
+    </s>
+    <s>
+      <eagle o="11_24309637"/>
+    </s>
+    <s>
+      <eagle o="64_46917817"/>
+    </s>
+    <s>
+      <eagle o="68_46917817"/>
+    </s>
+    <s>
+      <eagle o="71_46917817"/>
+    </s>
+    <s>
+      <eagle o="13_24309637"/>
+    </s>
+    <s>
+      <eagle o="12_24309637"/>
+    </s>
+    <s>
+      <eagle o="30_46917817"/>
+    </s>
+    <s>
+      <eagle o="14_46917817"/>
+    </s>
+    <s>
+      <eagle o="10_46917817"/>
+    </s>
+    <s>
+      <eagle o="21_46917817"/>
+    </s>
+    <s>
+      <eagle o="24_46917817"/>
+    </s>
+    <s>
+      <eagle o="34_46917817"/>
+    </s>
+    <s>
+      <eagle o="14"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+    <s>
+      <eagle o="20"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="31"/>
+    </s>
+    <s>
+      <eagle o="4_46917817"/>
+    </s>
+    <s>
+      <eagle o="40_46917817"/>
+    </s>
+    <s>
+      <eagle o="4_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Titillium-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Titillium-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-RegularItalic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+.line1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.line2
+{
+	color: #3695d0;
+	gradEndColor: #3695d0;
+	gradStartColor: #3695d0;
+}
+
+.line3
+{
+	color: #56e8f9;
+	gradEndColor: #56e8f9;
+	gradStartColor: #56e8f9;
+}
+
+.line4
+{
+	color: #ffb741;
+	gradEndColor: #ffb741;
+	gradStartColor: #ffb741;
+}
+
+.line5
+{
+	color: #e3614d;
+	gradEndColor: #e3614d;
+	gradStartColor: #e3614d;
+}
+
+.poly1
+{
+	color: #262626;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #3695d0;
+	gradStartColor: #3695d0;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #56e8f9;
+	gradStartColor: #56e8f9;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #ffb741;
+	gradStartColor: #ffb741;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	color: #262626;
+	gradEndColor: #e3614d;
+	gradStartColor: #e3614d;
+}
+
+Background
+{
+	gradEnd: #262626;
+	gradStart: #262626;
+}
+
+Grid
+{
+	color: #5b5b5b;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: .7;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: .4;
+	gradEndColor: #fff;
+	gradStartAlpha: .4;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 5;
+	gradEndAlpha: 0.5;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.5;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 8;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 4;
+}
+
+ZLabel.head
+{
+	color: #56e8f9;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 1;
+	background-color: #262626;
+	background-padding: 4;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #000;
+	background-padding: 4;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZMarker
+{
+	alpha: 0.8;
+	color: #56e8f9;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>2a87524f</hash>
+<sync><oid>csmzfifd0muw</oid><title>aspectos-basicos-de-networking</title><hash>2a87524f</hash></sync><config>n8PgRFtm2ZGYDz1qjNIj4fv1dxiOtTUDXMfoKrWzzxvosh7Age9b7YMxA4P/NIfM13IkdtqKT0cLPv+VQHE+AFkdysTmKvImeEm2m8jXjZukqUsfXCGcx6fl7VMq0rjisjsUUJOvgJWeMnVo/mRHfadNj1igvnSnNh5lLChNyJOG4F/ZeZjm2PVcy99DRthCyqVE7EjvVkuTTncqgM57OaHdDlGuHgkYISLp2lfgBqAf3Cklv0/3PeIRdRwGNsRWG7iDLzHCeqHhnYznku9Nuz4Fi6tp9HTNN2rTvKzfBWL4ng2sOkZbVCfscsFvy6Q4EZqOuF3Jr9r1pmsAqp4WKQ==</config></zuiprezi>
