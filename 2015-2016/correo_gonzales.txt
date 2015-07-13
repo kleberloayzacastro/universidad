@@ -1,3 +1,12 @@
 http://go.eset.eu/phish-new?lng=13322
 
 jgonzalez@utmachala.edu.ec
+
+
+rundll32.exe syssetup,SetupOobeBnk
+regsvr32 regwizc.dll
+regsvr32 licdll.dll
+
+regsvr32 regwizc.dll
+regsvr32 licdll.dll
+rundll32.exe syssetup,SetupOobeBnk
